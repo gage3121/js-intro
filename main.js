@@ -25,3 +25,7 @@ console.log(typeof answer, typeof negative);
 const iLoveJavaScript = true;
 
 console.log(typeof iLoveJavaScript);
+
+//END DATA TYPES
+
+//START MATH
